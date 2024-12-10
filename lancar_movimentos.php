@@ -97,7 +97,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="container">
-        <a href="index.html" class="btn">Voltar à Página Inicial</a>
+        <a href="https://jrcsistemas.github.io/gestao-pessoal/" class="btn">Voltar à Página Inicial</a>
         <h1>Lançar Movimentos</h1>
         <?php if (isset($mensagem)): ?>
             <p class="mensagem"><?= $mensagem ?></p>
