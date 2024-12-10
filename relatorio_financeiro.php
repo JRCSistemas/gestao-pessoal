@@ -155,7 +155,7 @@ if ($result->num_rows > 0) {
 </head>
 <body>
     <div class="container">
-        <a href="index.html" class="btn">Voltar à Página Inicial</a>
+        <a href="https://jrcsistemas.github.io/gestao-pessoal/" class="btn">Voltar à Página Inicial</a>
         <a href="imprimir_relatorio.php" class="btn" onclick="window.print(); return false;">Imprimir Relatório</a> <!-- Botão para imprimir -->
         <h1>Relatório Financeiro</h1>
         <div class="totais">
